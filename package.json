@@ -1,0 +1,11 @@
+{
+  "name": "chatbox-chatgpt",
+  "version": "1.0.0",
+  "description": "A chatbox built with chatgpt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Hunter",
+  "license": "MIT"
+}
