@@ -2,6 +2,7 @@
   "name": "chatbox-chatgpt",
   "version": "1.0.0",
   "description": "A chatbox built with chatgpt",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
